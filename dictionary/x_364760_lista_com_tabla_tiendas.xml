@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Tabla Tiendas" max_length="40" name="x_364760_lista_com_tabla_tiendas" type="collection">
+        <element display="true" label="Tienda" max_length="50" name="tienda" type="string"/>
+    </element>
+</database>

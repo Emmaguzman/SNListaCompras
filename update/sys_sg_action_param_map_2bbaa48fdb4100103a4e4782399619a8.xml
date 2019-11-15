@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Articulos de compras)">63baa48fdb4100103a4e4782399619a2</button>
+        <item_parameter display_value="Articulos de compras tienda">2fbaa48fdb4100103a4e47823996199f</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:49:47</sys_created_on>
+        <sys_id>2bbaa48fdb4100103a4e4782399619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2fbaa48fdb4100103a4e47823996199f</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_2bbaa48fdb4100103a4e4782399619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 14:49:47</sys_updated_on>
+        <ui_parameter display_value="Tienda">e3baa48fdb4100103a4e4782399619a7</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

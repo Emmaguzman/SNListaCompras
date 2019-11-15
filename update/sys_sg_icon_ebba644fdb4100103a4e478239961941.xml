@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Lista_Compras2</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:49:46</sys_created_on>
+        <sys_id>ebba644fdb4100103a4e478239961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Lista_Compras2</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_update_name>sys_sg_icon_ebba644fdb4100103a4e478239961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 14:49:46</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

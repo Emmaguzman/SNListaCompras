@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order>-1</condition_order>
+        <datasource_table>x_364760_lista_com_articulos_de_compras</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Articulos de comprass">2bbaa48fdb4100103a4e478239961990</embedded_screen>
+        <item_view display_value="Articulos de compras List Screen Item View">ebbaa48fdb4100103a4e47823996198d</item_view>
+        <name>Articulos de compras master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:49:47</sys_created_on>
+        <sys_id>63baa48fdb4100103a4e478239961995</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Articulos de compras master_item</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_update_name>sys_sg_master_item_63baa48fdb4100103a4e478239961995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 16:00:36</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

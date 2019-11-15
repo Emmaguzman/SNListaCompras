@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_364760_lista_com_tabla_tiendas</description>
+        <name>x_364760_lista_com_tabla_tiendas</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 15:02:06</sys_created_on>
+        <sys_id>949d6843db8100103a4e478239961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_364760_lista_com_tabla_tiendas</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_update_name>sys_security_acl_949d6843db8100103a4e478239961927</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 15:02:06</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

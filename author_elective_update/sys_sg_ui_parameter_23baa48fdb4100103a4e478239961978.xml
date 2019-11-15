@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="New Button (TablaTiendas)">afbaa48fdb4100103a4e478239961976</button>
+        <button_parent_table>x_364760_lista_de_tablatiendas</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>tiendas</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Tiendas</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:49:46</sys_created_on>
+        <sys_id>23baa48fdb4100103a4e478239961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tiendas</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_23baa48fdb4100103a4e478239961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 14:49:46</sys_updated_on>
+        <table_name>x_364760_lista_de_tablatiendas</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=23baa48fdb4100103a4e478239961978"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</application>
+        <file_path/>
+        <instance_id>53e61a56db69b3440b9d21c4059619f3</instance_id>
+        <instance_name>dev86473</instance_name>
+        <name>sys_sg_ui_parameter_23baa48fdb4100103a4e478239961978</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="New Button (TablaTiendas)">afbaa48fdb4100103a4e478239961976</button><button_parent_table>x_364760_lista_de_tablatiendas</button_parent_table><carried>false</carried><constant/><default_value/><default_value_type>source_field</default_value_type><field_name>tiendas</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Tiendas</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-15 14:49:46</sys_created_on><sys_id>23baa48fdb4100103a4e478239961978</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tiendas</sys_name><sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package><sys_policy/><sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope><sys_update_name>sys_sg_ui_parameter_23baa48fdb4100103a4e478239961978</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-15 14:49:46</sys_updated_on><table_name>x_364760_lista_de_tablatiendas</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=23baa48fdb4100103a4e478239961978"/></record_update>]]></payload>
+        <payload_hash>279210747</payload_hash>
+        <record_name>Tiendas</record_name>
+        <reverted_from/>
+        <source>2244e40bdb4100103a4e47823996193b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:49:47</sys_created_on>
+        <sys_id>7bbaa48fdb4100103a4e4782399619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e6f8aa5470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 14:49:47</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>f3baa48ff5410010814d715bdeffc6d7</update_guid>
+        <update_guid_history>f3baa48ff5410010814d715bdeffc6d7:279210747</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:52:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>0dbec535f7a845f183672ae98930e209</sys_id>
+        <sys_metadata>23baa48fdb4100103a4e478239961978</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tiendas</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_scope_delete display_value="">117d59dfc3f1420282f8f912bb258469</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_23baa48fdb4100103a4e478239961978</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_23baa48fdb4100103a4e478239961978">7bbaa48fdb4100103a4e4782399619d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 14:52:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

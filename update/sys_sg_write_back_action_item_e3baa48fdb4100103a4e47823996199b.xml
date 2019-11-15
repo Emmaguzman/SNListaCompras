@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Articulos de compras</name>
+        <query_condition table="x_364760_lista_com_articulos_de_compras">sys_idSTARTSWITH{{Articulos de compras sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Articulos de compras sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:49:47</sys_created_on>
+        <sys_id>e3baa48fdb4100103a4e47823996199b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Articulos de compras</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_e3baa48fdb4100103a4e47823996199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 18:34:36</sys_updated_on>
+        <table>x_364760_lista_com_articulos_de_compras</table>
+        <template>articulo={{Articulos de compras articulo}}^cantidad={{Articulos de compras cantidad}}^comprado={{Articulos de compras comprado}}^tienda={{Articulos de compras tienda}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e3baa48fdb4100103a4e47823996199b"/>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="DELETE">
+        <data_item/>
+        <dependency_fields>tiendas</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"TextAlignment":"Center","MaxLines":1,"CornerRadius":2,"CellId":"tiendas","Width":100,"Height":21,"Text":"","Font":{"Weight":"semibold","Size":13},"BackgroundColor":"#f1f1f1","TextColor":"#293e40","studio_template_field_id":"E1","Type":"Text"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Right","MaxLines":1,"CellId":"","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","studio_template_field_id":"E2","Type":"Text"}],"Distribution":"Auto","Alignment":"Right","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Equal","Alignment":"Stretch","Orientation":"Horizontal","Type":"ViewGroup"},{"TextAlignment":"Left","MaxLines":2,"CellId":"","Text":"","Font":{"Weight":"regular","Size":18},"TextColor":"#293e40","studio_template_field_id":"E3","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextAlignment":"Left","MaxLines":1,"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"TextColor":"#7d8a8c","studio_template_field_id":"E4","Margin":{"Right":8},"Type":"Text"},{"Scaling":"Fill","CornerRadius":11,"CellId":"","Width":22,"Height":22,"studio_template_field_id":"E5","Margin":{"Right":6},"Type":"Image"},{"TextAlignment":"Left","MaxLines":1,"CellId":"","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","studio_template_field_id":"E4","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Left","MaxLines":1,"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"TextColor":"#7d8a8c","studio_template_field_id":"E6","Margin":{"Right":8},"Type":"Text"},{"TextAlignment":"Left","MaxLines":1,"CellId":"","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","studio_template_field_id":"E6","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Alignment":"Stretch","Orientation":"Vertical","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>TablaTiendas List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:49:46</sys_created_on>
+        <sys_id>a7baa48fdb4100103a4e478239961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TablaTiendas List Screen Item View</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_update_name>sys_sg_item_view_a7baa48fdb4100103a4e478239961953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 14:49:46</sys_updated_on>
+        <table>x_364760_lista_de_tablatiendas</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=a7baa48fdb4100103a4e478239961953"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</application>
+        <file_path/>
+        <instance_id>53e61a56db69b3440b9d21c4059619f3</instance_id>
+        <instance_name>dev86473</instance_name>
+        <name>sys_sg_item_view_a7baa48fdb4100103a4e478239961953</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item/><dependency_fields>tiendas</dependency_fields><item_view_json>{"Children":[{"Children":[{"Children":[{"TextAlignment":"Center","MaxLines":1,"CornerRadius":2,"CellId":"tiendas","Width":100,"Height":21,"Text":"","Font":{"Weight":"semibold","Size":13},"BackgroundColor":"#f1f1f1","TextColor":"#293e40","studio_template_field_id":"E1","Type":"Text"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Right","MaxLines":1,"CellId":"","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","studio_template_field_id":"E2","Type":"Text"}],"Distribution":"Auto","Alignment":"Right","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Equal","Alignment":"Stretch","Orientation":"Horizontal","Type":"ViewGroup"},{"TextAlignment":"Left","MaxLines":2,"CellId":"","Text":"","Font":{"Weight":"regular","Size":18},"TextColor":"#293e40","studio_template_field_id":"E3","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextAlignment":"Left","MaxLines":1,"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"TextColor":"#7d8a8c","studio_template_field_id":"E4","Margin":{"Right":8},"Type":"Text"},{"Scaling":"Fill","CornerRadius":11,"CellId":"","Width":22,"Height":22,"studio_template_field_id":"E5","Margin":{"Right":6},"Type":"Image"},{"TextAlignment":"Left","MaxLines":1,"CellId":"","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","studio_template_field_id":"E4","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Left","MaxLines":1,"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"TextColor":"#7d8a8c","studio_template_field_id":"E6","Margin":{"Right":8},"Type":"Text"},{"TextAlignment":"Left","MaxLines":1,"CellId":"","Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","studio_template_field_id":"E6","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Alignment":"Stretch","Orientation":"Vertical","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json><name>TablaTiendas List Screen Item View</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-15 14:49:46</sys_created_on><sys_id>a7baa48fdb4100103a4e478239961953</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TablaTiendas List Screen Item View</sys_name><sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package><sys_policy/><sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope><sys_update_name>sys_sg_item_view_a7baa48fdb4100103a4e478239961953</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-15 14:49:46</sys_updated_on><table>x_364760_lista_de_tablatiendas</table><ui_styles/></sys_sg_item_view><sys_translated_text action="delete_multiple" query="documentkey=a7baa48fdb4100103a4e478239961953"/></record_update>]]></payload>
+        <payload_hash>-1638500484</payload_hash>
+        <record_name>TablaTiendas List Screen Item View</record_name>
+        <reverted_from/>
+        <source>2fd01326db0940103a4e47823996195c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:52:12</sys_created_on>
+        <sys_id>db4ba0cfdb4100103a4e478239961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e6f8cdc920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 14:52:12</sys_updated_on>
+        <type>Item view</type>
+        <update_guid>5b4ba0cff04100106d5aa0a796631d11</update_guid>
+        <update_guid_history>5b4ba0cff04100106d5aa0a796631d11:0,7bbaa48f19410010df7054f8b3802de1:1243299570</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 14:52:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_view">sys_sg_item_view</sys_db_object>
+        <sys_id>1097d179dc314eea8d6efff86342d124</sys_id>
+        <sys_metadata>a7baa48fdb4100103a4e478239961953</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TablaTiendas List Screen Item View</sys_name>
+        <sys_package display_value="Lista_Compras2" source="x_364760_lista_com">6a44e40bdb4100103a4e478239961938</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Lista_Compras2">6a44e40bdb4100103a4e478239961938</sys_scope>
+        <sys_scope_delete display_value="">117d59dfc3f1420282f8f912bb258469</sys_scope_delete>
+        <sys_update_name>sys_sg_item_view_a7baa48fdb4100103a4e478239961953</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_view_a7baa48fdb4100103a4e478239961953">db4ba0cfdb4100103a4e478239961911</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 14:52:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
